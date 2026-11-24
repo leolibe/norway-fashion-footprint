@@ -79,5 +79,4 @@ jupyter notebook project.ipynb
 
 ## Data & license
 
-- Code: MIT License (see [`LICENSE`](LICENSE)).
 - Data: derived from EXIOBASE 3 (Stadler et al., 2018, *Journal of Industrial Ecology*, doi:[10.1111/jiec.12715](https://doi.org/10.1111/jiec.12715)), used for non-commercial academic purposes under the EXIOBASE licence. The files in `data_processed/` are aggregated results, not the original database.
